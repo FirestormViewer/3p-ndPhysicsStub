@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.6.4)
+cmake_minimum_required(VERSION 3.16.0)
 
 set( CMAKE_PROJECT_NAME ndPhysicsStub )
 
